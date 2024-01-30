@@ -4,7 +4,7 @@ from pygame.sprite import Group
 
 
 class Scores():
-    """Вывод игровой информации"""
+    """Вывод игровой информации """
 
     def __init__(self, screen, stats):
         self.screen = screen
